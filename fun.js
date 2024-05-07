@@ -2,7 +2,7 @@
 
 // function singhappyBirthady(){
 //     console.log("happy Birthday");
-// }
+ }
 
 singhappyBirthady();
 
