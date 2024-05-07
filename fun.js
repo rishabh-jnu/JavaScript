@@ -4,7 +4,7 @@
 //     console.log("happy Birthday");
 // }
 
-//singhappyBirthady();
+singhappyBirthady();
 
 function twoPlusFour(){
     return (2+4);
